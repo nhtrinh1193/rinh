@@ -12,4 +12,4 @@ edition = "2018"
 [dependencies]
 futures-semaphore = { path = "../futures-semaphore" }
 futures = { version = "=0.3.0-alpha.19", package = "futures-preview", features = ["async-await", "compat"] }
-tokio = "0.1.22"
+tokio = "1.8.4"
