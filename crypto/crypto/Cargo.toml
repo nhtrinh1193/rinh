@@ -36,7 +36,7 @@ nibble = { path = "../../common/nibble" }
 canonical_serialization = { path = "../../common/canonical_serialization" }
 
 [dev-dependencies]
-bitvec = "0.10.1"
+bitvec = "0.17.4"
 byteorder = "1.3.2"
 ripemd160 = "0.8.0"
 
