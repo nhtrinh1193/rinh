@@ -27,7 +27,7 @@ vm_runtime_types = { path = "../vm/vm_runtime/vm_runtime_types" }
 proptest = "0.9.3"
 proptest-derive = "0.1.1"
 proptest_helpers = { path = "../../common/proptest_helpers" }
-prost = "0.5.0"
+prost = "0.6.1"
 config =  { path = "../../config" }
 logger = { path = "../../common/logger" }
 stdlib = { path = "../stdlib" }
